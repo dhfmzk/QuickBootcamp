@@ -471,6 +471,7 @@
 				C33EBE911D55624200E535FF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C33EBE921D55624200E535FF /* Build configuration list for PBXNativeTarget "quickBootCampTests" */ = {
 			isa = XCConfigurationList;
@@ -479,6 +480,7 @@
 				C33EBE941D55624200E535FF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C33EBE951D55624200E535FF /* Build configuration list for PBXNativeTarget "quickBootCampUITests" */ = {
 			isa = XCConfigurationList;
@@ -487,6 +489,7 @@
 				C33EBE971D55624200E535FF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
