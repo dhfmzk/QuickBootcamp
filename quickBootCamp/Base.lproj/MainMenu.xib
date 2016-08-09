@@ -20,7 +20,7 @@
         <customObject id="YLy-65-1bz" customClass="NSFontManager"/>
         <menu id="Ezy-Uj-aGv">
             <items>
-                <menuItem title="Boot Camp" id="ovC-b6-ozP">
+                <menuItem title="Restart BootCamp" id="ovC-b6-ozP">
                     <modifierMask key="keyEquivalentModifierMask"/>
                     <connections>
                         <action selector="bootcampClicked:" target="Voe-Tx-rLC" id="6QJ-rB-Cbd"/>
